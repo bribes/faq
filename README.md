@@ -1,4 +1,4 @@
-# FAQ / About
+## FAQ / About
 
 Q: Who made this?
 
@@ -21,13 +21,13 @@ Q: What information do you store?
 A: Nothing. We don't cache users, although we plan to do this in the future. Users can opt-out of caching per search once this feature is added.
 
 Credits
-- bs-community - skinview3d
-- Electroid - api.ashcon.app
-- Bootstrap Team - Bootstrap
-- Twitter - Twemoji
-- jomo - Crafatar
-- The 88 GitHub Organization - api.gapple.pw
-- OptiFine - OptiFine Cape API
-- LabyMod - LabyMod Cape & Bandana API
+- [bs-community](https://github.com/bs-community) - [skinview3d](https://github.com/bs-community/skinview3d)
+- [Electroid](https://github.com/Electroid) - [api.ashcon.app](https://github.com/Electroid/mojang-api)
+- [Bootstrap Team](https://getbootstrap.com/docs/4.4/about/team/) - [Bootstrap](https://getbootstrap.com/)
+- [Twitter](https://github.com/twitter) - [Twemoji](https://twemoji.twitter.com/)
+- [jomo](https://github.com/jomo) - [Crafatar](https://crafatar.com/)
+- [The 88 GitHub Organization](https://github.com/88) - [api.gapple.pw](https://api.gapple.pw/)
+- [OptiFine](https://optifine.net/home) - [OptiFine Cape API](http://s.optifine.net/capes/Tremendous.png)
+- [LabyMod](https://www.labymod.net/en/about) - [LabyMod Cape & Bandana API](https://docs.labymod.net/pages/server/introduction/)
 
 We are not affiliated with Mojang, Minecraft, Microsoft, Twitter, OptiFine, LabyMod, or any of the above entities or corporations.
