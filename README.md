@@ -2,7 +2,7 @@
 
 Q: Who made this?
 
-A: [The 88 GitHub organization](https://github.com/88) and [Faav](https://github.com/withdrew).
+A: [The 88 GitHub Organization](https://github.com/88) and [Faav](https://github.com/withdrew).
 
 Q: Can you remove my name history / personal information / etc?
 
