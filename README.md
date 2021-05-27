@@ -26,8 +26,8 @@ Credits
 - Bootstrap Team - Bootstrap
 - Twitter - Twemoji
 - jomo - Crafatar
-- The 88 GitHub organization - api.gapple.pw
-- OptiFine - OptiFine cape API
-- LabyMod - LabyMod cape & bandana API
+- The 88 GitHub Organization - api.gapple.pw
+- OptiFine - OptiFine Cape API
+- LabyMod - LabyMod Cape & Bandana API
 
 We are not affiliated with Mojang, Minecraft, Microsoft, Twitter, OptiFine, LabyMod, or any of the above entities or corporations.
